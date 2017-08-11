@@ -1,0 +1,14 @@
+{
+	"name": "Korean Patch",
+	"description": "Translate to Korean",
+	"version": "0.0.1",
+	"author": "치이즈버거",
+	"compatibleMinorVersions": [
+		3
+	],
+	"unloadable": true,
+	"languages": [
+		"Korean"
+	],
+	"publishedFileId": ""
+}
