@@ -1,7 +1,7 @@
 {
 	"name": "Wayward Korean Patch",
-	"description": "Translate to Korean<br/><br/>이 모드는 Wayward한국어 패치를 하는 모드입니다. 패치를 받으신 후 옵션에서 언어 설정이 Korean 으로 되어 있는지 확인하여 주세요.<br /><br />번역에 참여 해주신 분들: 마이클 캐릭<br /><br />Special Thanks: 흑랑펜릴",
-	"version": "0.0.2",
+	"description": "Translate to Korean<br/><br/>이 모드는 Wayward한국어 패치를 하는 모드입니다. 패치를 받으신 후 옵션에서 언어 설정이 Korean 으로 되어 있는지 확인하여 주세요.<br /><br />- 번역이 아직 완벽하지 않습니다. rodpold@gmail.com 으로 피드백을 주시거나 본 창작마당에 댓글로 남겨주시면 반영하겠습니다. <br /><br />- 현재 99% 정도 번역이 완료 되었습니다. <br /><br />번역에 참여 해주신 분들: 마이클 캐릭<br /><br />Special Thanks: 흑랑펜릴",
+	"version": "0.9.0",
 	"author": "치이즈버거",
 	"compatibleMinorVersions": [
 		4
