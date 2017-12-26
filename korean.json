@@ -160,10 +160,7 @@
 			"menuRight": ["오른쪽 선택"],
 			"developerToggleDeveloperMode": ["개발자 모드 전환"],
 			"developerReloadGame": ["게임 다시 불러오기"],
-			"developerToggleDeveloperTools": ["개발자 도구 전환"],
-			"modDeveloperToolsToggle": ["개발자 도구 전환"],
-			"modDeveloperToolsSelectLocation": ["위치 선택"],
-			"modStarterQuestToggle": ["시작 퀘스트 전환"]
+			"developerToggleDeveloperTools": ["개발자 도구 전환"]
 		},
 		"book": {
 			"islandPresence": ["윌리엄 J. 앤드류", "\"이 섬은 내가 존재함으로써 어떤 반응을 보이고 있는 것 같다. 누군가 나를 지켜보고 있다는 이상한 기분을 느끼곤 한다. 심지어 피에 굶주린 생명체들이 머리 꼭대기에서 맴도는 느낌이다. 심지어 그게 내 꿈속까지 따라 들어온다! 앞으로 얼마나 뜬 눈으로 밤을 지새울지 모르겠다.\"<br><br>\n\t\n\t\"또 시작됐다. 난 나무를 베어버렸다. 그 소리가 분명 들렸다.\"<br><br>\n\t\n\t\"또 시작이다. 이번엔 나무를 태워버렸다. 그래도 웅웅 소리는 계속된다.\"<br><br>\n\t\n\t\"이번에도 마찬가지야. 모든걸 끝내버리겠어. 난 숲에 불을 질렀다. 너무 시끄러워!!\"<br><br>\n\t\n\t다음 페이지는 너무 휘갈겨 써서 도저히 읽을 수가 없습니다."],
@@ -1138,6 +1135,7 @@
 			"labelOnEat": ["On Eat: "],
 			"labelOnEquip": ["On Equip: "],
 			"labelOnHeal": ["On Heal: "],
+			"labelOnCreatureHeal": ["On Heal Creature: "],
 			"labelPiercingResist": ["찌르기 저항:"],
 			"labelProtected": ["보호: "],
 			"labelRange": ["사거리: "],
@@ -1677,6 +1675,8 @@
 			"gameInterruptLoadingGameDescription": [""],
 			"gameInterruptLoadingSprites": ["영혼 불러오는 중"],
 			"gameInterruptLoadingSpritesDescription": [""],
+			"gameInterruptMultiplayerSynchronizing": ["동기화 하기"],
+			"gameInterruptMultiplayerSynchronizingDescription": ["서버와 동기화 합니다."],
 			"gameMultiplayerInterruptBanned": ["당신은 서버에서 추방 당했습니다."],
 			"gameMultiplayerInterruptConnecting": ["접속 중"],
 			"gameMultiplayerInterruptConnectingDescription": [""],
@@ -2250,11 +2250,6 @@
 			"windowTitleMilestones": ["업적"],
 			"windowTitleOptions": ["빠른 설정"],
 			"windowTitleSkills": ["기술"]
-		},
-		"developerTools": {
-			"queryInspection": ["Choose an object to inspect by clicking on its tile."],
-			"queryObjectNotFound": ["The selected tile contains no object that can be inspected."],
-			"optionsAutoOpen": ["Open Dialog on Load"]
 		}
 	},
 	"shouldPluralize": true
