@@ -365,7 +365,7 @@
 			"재료를 합칠때 사용되는 것과 만들어지는 것에 대하여", "메뉴 바의 \"제작\" 단추 또는 {Bindable.DialogCrafting}로 제작 창을 열 수 있습니다.\n\t\t\n\t\t제작은 간단히 이루어지지만, 시스템에는 다소 깊이가 있습니다.\n\t\t\n\t\t _사용되는 아이템_ \n\n\t\t제작 창의 아이템 레시피에 마우스를 갖다대면, 제작에 사용되는 아이템들의 테두리가 하얗게 강조됩니다. \n\t\t\n\t\t레시피는 항상 인벤토리의 첫번째 아이템부터 사용합니다. 사용되는 아이템을 변경하려면 단순히 인벤토리 아이템의 순서를 바꾸면 됩니다.\n\t\t\n\t\t _내구도와 품질_ \n\t\t\n\t\t재료의 내구도와 품질은 결과물의 내구도와 품질에 영향을 줍니다: \n\t\t- 손상된 재료를 사용하면 결과물도 낮은 내구도를 가집니다. \n\t\t- 괜찮음, 특출남, 전설급 아이템은 높은 품질의 아이템을 만들 확률을 높입니다. \n\t\t- 부패하는 아이템은 (음식 따위의) 높은 품질을 사용하면 부패도에 보너스를 얻습니다. \n\t\t\n\t\t _새 레시피 얻기_ \n\t\t\n\t\t새 제작 레시피를 얻으려면, 필요한 재료를 인벤토리에 모두 가지고 있거나 오래된 설계도를 찾으면 됩니다."],
 			"death": ["죽음 ", "모두 언젠가는 죽게 됩니다. 이것은 이전 삶과 다음 삶 사이에도 이어지는 것에 대한 설명입니다.", "다음 삶에 이어지는 것에 대하여", "죽음은 영구적입니다. 비록 죽더라도, 발견한 모든 레시피는 다음 게임에 쓸 수 있습니다. {link(Menu.HelpArticle.Milestones):업적}도 유지되므로, 당신은 몇가지 이점을 가지고 시작합니다."],
 			"taming": ["생명체 길들이기 ", "생명체를 길들이는 다양한 방법에 대한 짧은 안내입니다.", "생명체를 길들이는 모든 방법 알아보기", "Wayward에는 생명체를 길들이는 다양한 방법이 있습니다. 이는 다음을 포함합니다:\n\t\t\n\t\t1. 생명체를 바라보고 {link(Menu.HelpArticle.Actions): 행동 메뉴의 \"길들이기\" 행동}을 사용하기. 이 방법의 성공률은 꽤 낮고, 특히 기술 레벨이 낮으면 그렇습니다. 또, 생명체의 종류와 난이도에 따라 바뀝니다.\n\t\t2. 생명체를 바라보고 아이템의 \"건네주기\" 메뉴를 사용하기. 생명체가 아이템을 원하면 당신을 주인으로 인정합니다.\n\t\t3. 땅에 아이템을 버리고 생명체가 그 위에 올라서서 아이템을 획득하면 당신 (또는 생명체에서 가장 가까이 있는 플레이어)에게  길들여져 갑니다.\n\t\t\n\t\t특별한 생명체들은 길들이기가 힘들어서 때로 아이템을 건네주어도 당신을 거절합니다. 이 확률은 당신의 길들이기 기술에 의존합니다."],
-			"gardening": ["재배 ", "식물의 성장 주기와 재배에 관한 팁을 알아봅니다.", "재배 팁과 성장 주기에 관한 정보", "Wayward는 식물의 성장 주기 전체를 표현했습니다. 그것은 순서대로, 발아 중인, 새싹이 난, 성장이 시작된, 봉우리가 맺힌, 꽃이 핀, 무르익는 중인, 죽은 입니다. 균류도 마찬가지 단계를 거치지만, 이름만 다릅니다: 발아 중인, 퍼지는 중인, 성장 중인, 작게 모습이 형성된, 제법 성장한, 최대치로 성장한 입니다. 각 단계는 {link(Menu.HelpArticle.ResourceGathering):수집이나 수확시 다른 자원}을 얻을 수 있습니다.\n\t\t\n\t\t식물에 (액체 저장소의 \"붓기\" 행동으로) 물을 주거나 기름진 토양에 심어서 성장 시간을 단축시키고 퍼지는 단계의 번식력을 증가시킬 수 있습니다."],
+			"gardening": ["재배 ", "식물의 성장 주기와 재배에 관한 팁을 알아봅니다.", "재배 팁과 성장 주기에 관한 정보", "Wayward는 식물의 성장 주기 전체를 표현했습니다. 그것은 순서대로, 발아 중인, 새싹이 난, 성장이 시작된, 봉우리가 맺힌, 꽃이 핀, 무르익는 중인, 죽은 입니다. 균류도 마찬가지 단계를 거치지만, 이름만 다릅니다: 발아 중인, 퍼지는 중인, 성장 중인, 작게 모습이 형성된, 제법 성장한, 최대치로 성장한 입니다. 각 단계는 {link(Menu.HelpArticle.ResourceGathering):수집이나 수확시 다른 자원}을 얻을 수 있습니다.\n\t\t\n\t\t식물에 (액체 저장소의 \"붓기\" 행동으로) 물을 주거나 기름진 토양에 심어서 성장 시간을 단축시키고 퍼지는 단계의 번식력을 증가시킬 수 있습니다.\n\t\t\n\t\tThrough the use of fertilization, you can promote the fertility of plants (spreading and propagation) and decrease growing time. By combining compostable items to produce compost, and making bone meal through the grinding of bones, you can craft fertilizer. Combine it with soil (produced when digging dirt) to create fertile soil. Fertile soil can be placed down, tilled, then used as the target for planting seeds and mushrooms."],
 			"overweight": ["무게 초과 ", "무게 초과의 영향을 알아봅니다.", "무거움과 짓눌림에 대해 이해하기", "너무 많은 무게를 짊어지면 당신은 \"무거움\"을 느낍니다. 무거움의 첫 단계는 이동속도가 느려지고 {link(Menu.HelpArticle.Stats):스테미너 회복}이 느려집니다. 무거움이 둘째 단계까지 진행되면, 당신은 \"짓눌림\"을 느껴 움직일 때마다 피해를 입습니다. \n\t\n\t\t인벤토리의 아이템을 버리려면, {Bindable.GameItemDrop}를 사용하여 버리거나, {Bindable.GameItemDropAll}로 같은 종류를 모두 버릴 수 있습니다. 또는 아이템의 {link(Menu.HelpArticle.Actions):\"버리기\" 행동}을 사용하거나, 창 밖으로 드래그해 버릴 수도 있습니다."],
 			"merchants": ["상인 ", "떠돌이 상인과 거래하고 교류하는 법을 알아봅니다.", "NPC와 상호작용하기", "떠돌이 상인의 인벤토리에 아이템을 드래그해서 거래 화폐를 얻습니다. 또는, 아이템 메뉴를 사용해 판매 할 수도 있습니다. 당신은 이 거래 화폐로 원하는 아이템을 살 수 있습니다. 언제든지 돌아와서 거래할 수도 있지만, 조심하세요. 그들은 결국 \"떠돌아\" 멀리 가버릴지도 모릅니다.\n\t\t\n\t\t당신의 거래기술이 판매할 때 얻는 거래 화폐에 영향을 주지만, 상인은 언제나 되팔 때 더 비싼 값을 받으려 합니다.\n\t\t\n\t\t상인과 거래할 생각이 없다면, {link(Menu.HelpArticle.Actions):행동 메뉴의 \"공격하기\"}를 사용해 습격할 수 있습니다. 하지만 조심하세요. 그들은 그런 적대적인 행동을 반기지 않을 것입니다."],
 			"multiplayer": ["멀티플레이 ", "Wayward의 멀티플레이 시스템에 대해 알아봅니다.", "생존은 동료와 함께일 때 더 쉽습니다!", "Wayward는 32명까지 멀티플레이를 지원합니다. 멀티플레이는 각 턴이 고정된 시간에 진행되는 simulated real-time 모드로 진행됩니다. \"캐쥬얼\"과 \"하드코어\" 모드는 싱글플레이와 다소 다르게 동작합니다. 캐쥬얼 모드는 보통처럼 다시 부활하지만, 하드코어 모드에서는 죽으면 유령으로 이어서 플레이하게 되어 구경만 할 수 있고 상호작용할 수 없습니다. 멀티플레이는 또 PVP 설정으로 플레이어들이 서로 해치거나 죽일 수 있습니다. 멀티플레이 설정은 일시정지 메뉴 ({Bindable.GamePause})의 멀티플레이어 메뉴에서 설정할 수 있습니다.\n\t\n\t\t생명체 소환 빈도, 생명체 난이도, 평판은 몇명이 접속 중인지에 따라 조절되며, 모든 플레이어의 평균을 기반으로 합니다.\n\t\t\n\t\t{heading:명령어}\n\t\t멀티플레이시 몇가지 명령어를 사용할 수 있습니다. 모든 명령어를 보려면 채팅창에 \"/commands\"를 입력하세요. 다음 명령어들 또한 사용할 수 있습니다:\n\t\n\t\t{#--text-color-faded:/players} — 접속 중인 모든 플레이어 보기.\n\t\t{#--text-color-faded:/ping} — 호스트 플레이어와의 지연시간 보기.\n\t\t{#--text-color-faded:/kick} — 호스트가 플레이어 추방하기.\n\t\t{#--text-color-faded:/banned} — 차단된 플레이어 목록 보기.\n\t\t{#--text-color-faded:/ban} — 호스트가 플레이어 차단하기.\n\t\t{#--text-color-faded:/unban} — 호스트가 플레이어 차단 해제하기."],
@@ -382,7 +382,8 @@
 			"rename": ["이름 변경"],
 			"retry": ["재시도"],
 			"steamWorkshop": ["스팀 창작마당"],
-			"yes": ["네"]
+			"yes": ["네"],
+			"quit": ["나가기"]
 		},
 		"item": {
 			"copal": ["", "코펄", "나무 수액이 굳어진 것입니다. 먼저 갈아낸 뒤 녹여서 아이템을 강화할 수 있습니다."],
@@ -1950,6 +1951,11 @@
 			"gameMultiplayerInterruptUnableToJoinGameServerFull": ["서버가 꽉 찼습니다."],
 			"gameMultiplayerInterruptUnableToJoinGameUnknownError": ["에러 코드 {0}."],
 			"gameMultiplayerInterruptUnableToJoinGameVersionMismatch": ["서버 버전은 ({0}) 이지만 현재 게임의의 버전은 ({1}) 이므로 서로 다릅니다."],
+			"gameMultiplayerInterruptRequiredModIsDisabled": ["{name}@{version} 버전이 비활성화 되었습니다."],
+			"gameMultiplayerInterruptRequiredModVersionMismatch": ["{name}@{version} 버전이 필요합니다. 현재는 {1} 버전을 사용 중입니다."],
+			"gameMultiplayerInterruptRequiredModUnableToLoad": ["{name}@{version} 버전을 불러올 수 없습니다."],
+			"gameMultiplayerInterruptRequiredModNotInstalled": ["{name}@{version} 버전이 설치되지 않았습니다."],
+			"gameMultiplayerInterruptRequiredModNotMultiplayerCompatible": ["{name}@{version} 버전은 멀티플레이어 모드와 호환되지 않습니다."],
 			"menuAboutTitle": ["About"],
 			"menuAboutDescription": ["Wayward 에 대해서 더 알아보기"],
 			"menuAboutGameDescription": ["Wayward 는 탑 다운 시점의 턴제 게임으로 생존 로그라이크 게임입니다. 가장 중요한 탐험, 건축을 도전적인 땅에서 생존 해보세요."],
