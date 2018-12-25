@@ -2191,7 +2191,7 @@
 			"menuModsTooltipCanLoadStateModRequiresItself": ["모드가 필요함"],
 			"menuModsTooltipCanLoadStateMissingRequiredMod": ["필요한 모드가 없음"],
 			"menuModsTooltipCanLoadStateReqiredModNotLoaded": ["필요한 모드가 불려오지 않음"],
-			"menuModsTooltipCanLoadStateLocalModPrecedence": ["로컬에 설치됨. 이 모드가 우선시됩니다."],
+			"menuModsTooltipCanLoadStateLocalModPrecedence": ["로컬에 설치됨. 로컬에 설치된 모드가 우선시됩니다."],
 			"menuModsTooltipCanLoadStateIncompatibleVersion": ["현재 버전과 맞지 않음"],
 			"menuModsButtonEditInternalMods": ["내부 모드 수정"],
 			"menuModsSubmenuEditInternalModsTitle": ["내부 모드 수정"],
